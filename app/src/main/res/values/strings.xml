@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumGenerator</string>
+    <string name="choose_range">choose range</string>
+    <string name="your_result">your result</string>
+    <string name="btn_generate">generate</string>
+    <string name="choose_quantity">choose quantity</string>
+</resources>
